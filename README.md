@@ -1,2 +1,2 @@
 # next-movies
-⍟ NEXT Movies ⍟
+⍟ NEXT Moviz ⍟
