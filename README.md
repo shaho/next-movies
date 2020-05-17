@@ -1,2 +1,2 @@
 # Next Movies
-⍟ NEXT Moviz ⍟
+⍟ NEXT Moviz ⍟ based on Next.js
