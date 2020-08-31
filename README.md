@@ -1,2 +1,2 @@
 # Next Moviz
-⍟ NEXT Moviz ⍟ based on Next.js
+⍟ NEXT Moviz based on Next.js
